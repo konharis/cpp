@@ -1,2 +1,2 @@
 byte0: string I found
-byte1: 
+byte1: solution2
